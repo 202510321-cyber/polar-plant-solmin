@@ -11,7 +11,7 @@ import io
 # 기본 설정
 # ===============================
 st.set_page_config(
-    page_title="극지식물 최적 EC 농도 연구",
+    page_title="이기의 사회성이 떨어지는 연구",
     layout="wide"
 )
 
