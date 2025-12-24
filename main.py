@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="✅"
 )
 
-st.title("이기야 성공했다 이기야")
+st.title("✅ Streamlit 연결 테스트")
 
 st.write("이 화면이 보이면 GitHub와 Streamlit이 정상적으로 연결되었습니다.")
 
